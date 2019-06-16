@@ -101,7 +101,7 @@ welcome = """
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>Congratulations</h1>
+    <h1>No</h1>
     <p>COOL</p>
   </div>
   
